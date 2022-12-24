@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**jeksilaen/jeksilaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hello There :wave:
+</h1>
 
-Here are some ideas to get you started:
+> ### **ABOUT ME** :baby:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I am Zacharia Bachtiar. A ___Software Engineering Student___ at __Telkom University__.
+
+* I have been programming for 2 years and tried about 6 different languages.
+
+* Right now im focusing on ___Backend Development___ by creating high quality APIs and learning the core of becoming a backend developer.
+
+* Currently looking for an ___Internship___ on backend development.
+<br>
+
+> ### **Tech Stack** :computer:
+
