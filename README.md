@@ -23,19 +23,19 @@
 
 
 
-> ### **ABOUT ME** :baby:
+> ## **ABOUT ME** :baby:
 
 * I am Zacharia Bachtiar. A ___Software Engineering Student___ at __Telkom University__.
 
 * I have been programming for 2 years and tried about 6 different languages.
 
-* Right now im focusing on ___Backend Development___ by creating high quality APIs and learning the core of becoming a backend developer.
+* Right now im focusing on ___Backend Development___ by creating high quality services and learning the core of becoming a backend developer.
 
 * Currently looking for an ___Internship___ on backend development.
 <br>
 
 
-> ### **LANGUAGES AND TOOLS** :computer:
+> ## **LANGUAGES AND TOOLS** :computer:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -54,20 +54,36 @@
 <br>
 <br>
 
-> ### **GITHUB STATS** :fire:
+> ## **GITHUB STATS** :fire:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeksilaen&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeksilaen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 
-> ### **PROJECTS** :open_file_folder:
-### Websites / Web Applications
-* .
+> ## **FEATURED PROJECTS** :open_file_folder:
+### <ins>Websites / Web Applications</ins>
+|                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------|
+| [AnaKost](https://github.com/jeksilaen/anakost-client#readme) &nbsp; :arrow_right: &nbsp; A web application for expense tracking |
+| [HackChat](https://github.com/jeksilaen/HackChat#readme) &nbsp; :arrow_right: &nbsp; Real-time chat application with rooms  |
+| [ToDoList](https://github.com/jeksilaen/ToDoList-v2) &nbsp; :arrow_right: &nbsp; Classic to do list web application          |
+| [DrumKit](https://github.com/jeksilaen/DrumKit) &nbsp; :arrow_right: &nbsp; An actual drumkit, idk why i created this        |
+| [SimonGame](https://github.com/jeksilaen/SimonGame) &nbsp; :arrow_right: &nbsp; Recreation of the famous simon game    |
+| [RocketMan](https://github.com/jeksilaen/rocketman) &nbsp; :arrow_right: &nbsp; My old portfolio in the form of a static site     |
+| [Blog](https://github.com/jeksilaen/Blog) &nbsp; :arrow_right: &nbsp; A simple blog application     |
+| [Dicee](https://github.com/jeksilaen/Dicee) &nbsp; :arrow_right: &nbsp; A minigame to spin dice with random outcome     |
+| [Newsletter](https://github.com/jeksilaen/Newsletter) &nbsp; :arrow_right: &nbsp; A newsletter subscription website     |
 
-### REST APIs
-* I am Zacharia Bachtiar. A ___Software Engineering Student___ at __Telkom University__.
+ 
+### <ins>REST APIs</ins>
+|                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------|
+| [Exchange Rates API](https://github.com/jeksilaen/exchange-rates#readme) &nbsp; :arrow_right: &nbsp; An API to fetch current and past exchange rates |
+| [Weather API](https://github.com/jeksilaen/exchange-rates#readme) &nbsp; :arrow_right: &nbsp; An extension API to fetch weather in different areas |
 
-### NPM Packages
-* I am Zacharia Bachtiar. A ___Software Engineering Student___ at __Telkom University__.
+### <ins>NPM Packages</ins>
+|                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------|
+| [Tiny NPM](https://github.com/jeksilaen/tiny-package) &nbsp; :arrow_right: &nbsp; An NPM package to minified strings with simple inputs |
 
