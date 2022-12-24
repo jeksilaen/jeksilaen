@@ -16,3 +16,9 @@
 
 > ### **Tech Stack** :computer:
 
+|  ![alt text](https://github.com/jeksilaen/jeksilaen/blob/main/docs-assets/node.png?raw=true) |  ![alt text](https://github.com/jeksilaen/jeksilaen/blob/main/docs-assets/express.png?raw=true) |
+|:--------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
+| ![alt text](https://github.com/jeksilaen/jeksilaen/blob/main/docs-assets/react.png?raw=true) | ![alt text](https://github.com/jeksilaen/jeksilaen/blob/main/docs-assets/tailwind.png?raw=true) |
+| ![alt text](https://github.com/jeksilaen/jeksilaen/blob/main/docs-assets/mongo.png?raw=true) |    ![alt text](https://github.com/jeksilaen/jeksilaen/blob/main/docs-assets/git.png?raw=true)   |
+|                                                                                              |                                                                                                 |
+|                                                                                              |                                                                                                 |
