@@ -33,7 +33,7 @@
 
 * Currently looking for an ___Internship___ on backend development.
 <br>
-<br>
+
 
 > ### **LANGUAGES AND TOOLS** :computer:
 
