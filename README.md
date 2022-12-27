@@ -67,6 +67,7 @@
 |---------------------------------------------------------------------------------------------------------|
 | [AnaKost](https://github.com/jeksilaen/anakost-client#readme) &nbsp; :arrow_right: &nbsp; A web application for expense tracking |
 | [HackChat](https://github.com/jeksilaen/HackChat#readme) &nbsp; :arrow_right: &nbsp; Real-time chat application with rooms  |
+| [Keeper](https://github.com/jeksilaen/Keeper#readme) &nbsp; :arrow_right: &nbsp; A google notes clone with CRUD functions  |
 | [ToDoList](https://github.com/jeksilaen/ToDoList-v2) &nbsp; :arrow_right: &nbsp; Classic to do list web application          |
 | [DrumKit](https://github.com/jeksilaen/DrumKit) &nbsp; :arrow_right: &nbsp; An actual drumkit, idk why i created this        |
 | [SimonGame](https://github.com/jeksilaen/SimonGame) &nbsp; :arrow_right: &nbsp; Recreation of the famous simon game    |
