@@ -35,6 +35,16 @@
 <br>
 <br>
 
+> ## **DEPLOYED APPLICATIONS** ✔️
+### <ins>Websites / Web Applications</ins>
+|                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------|
+| [AnaKost](https://github.com/jeksilaen/anakost-client#readme) &nbsp; :arrow_right: &nbsp; [Check out the live application here!](https://main--keen-torte-5dda3f.netlify.app)|
+| [HackChat](https://github.com/jeksilaen/HackChat#readme) &nbsp; :arrow_right: &nbsp; [Check out the live application here!](https://web-production-25986.up.railway.app)  |
+
+<br>
+<br>
+
 > ## **FEATURED PROJECTS** :open_file_folder:
 ### <ins>Websites / Web Applications</ins>
 |                                                                                                                        |
