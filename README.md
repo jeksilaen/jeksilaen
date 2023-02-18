@@ -51,6 +51,7 @@
 ### <ins>Websites / Web Applications</ins>
 |                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------|
+| [BandingBot](https://github.com/jeksilaen/BandingBot#readme) &nbsp; :arrow_right: &nbsp; A handy little web scraper |
 | [AnaKost](https://github.com/jeksilaen/anakost-client#readme) &nbsp; :arrow_right: &nbsp; A web application for expense tracking |
 | [HackChat](https://github.com/jeksilaen/HackChat#readme) &nbsp; :arrow_right: &nbsp; Real-time chat application with rooms  |
 | [Keeper](https://github.com/jeksilaen/Keeper#readme) &nbsp; :arrow_right: &nbsp; A google notes clone with CRUD functions  |
