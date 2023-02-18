@@ -27,7 +27,7 @@
 
 * I am Zacharia Bachtiar. A ___Software Engineering Student___ at __Telkom University__.
 
-* I have been programming for 2 years and tried about 6 different languages.
+* I have been programming for 2 years and learnt as many as 6 different languages.
 
 * Right now im focusing on ___Backend Development___ by creating high quality services and learning the core of becoming a backend developer.
 
@@ -36,11 +36,13 @@
 <br>
 
 > ## **DEPLOYED APPLICATIONS** ✔️
-### <ins>Websites / Web Applications</ins>
+### <ins>Live Projects</ins>
 |                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------|
+| [BandingBot](https://github.com/jeksilaen/BandingBot#readme) &nbsp; :arrow_right: &nbsp; [Check out the live application here!](https://web-production-f39f.up.railway.app)  |
 | [AnaKost](https://github.com/jeksilaen/anakost-client#readme) &nbsp; :arrow_right: &nbsp; [Check out the live application here!](https://main--keen-torte-5dda3f.netlify.app)|
 | [HackChat](https://github.com/jeksilaen/HackChat#readme) &nbsp; :arrow_right: &nbsp; [Check out the live application here!](https://web-production-25986.up.railway.app)  |
+
 
 <br>
 <br>
