@@ -25,30 +25,30 @@
 
 > ## **ABOUT ME** :baby:
 
-* I am Zacharia Bachtiar. A ___Software Engineering Student___ at __Telkom University__.
+* I am Zacharia Bachtiar. A ___Software Engineering Graduate___ from __Telkom University__.
 
-* I have been programming for 2 years and learnt as many as 6 different languages.
+* I have been programming for 4 years and currently developing my expertise around Data Science and Machine Learning.
 
-* Right now im focusing on ___Backend Development___ by creating high quality services and learning the core of becoming a backend developer.
+* Currently looking for an ___Internship/Fulltime Job___ as a Data Scientist / Machine Learning & AI Engineer / Data Analyst / Data Engineer.
 
-* Currently looking for an ___Internship___ on backend development.
-<br>
-<br>
-
-> ## **DEPLOYED APPLICATIONS** ✔️
-### <ins>Live Projects</ins>
-|                                                                                                                        |
-|---------------------------------------------------------------------------------------------------------|
-| [BandingBot](https://github.com/jeksilaen/BandingBot#readme) &nbsp; :arrow_right: &nbsp; [Check out the live application here!](https://web-production-f39f.up.railway.app)  |
-| [AnaKost](https://github.com/jeksilaen/anakost-client#readme) &nbsp; :arrow_right: &nbsp; [Check out the live application here!](https://main--keen-torte-5dda3f.netlify.app)|
-| [HackChat](https://github.com/jeksilaen/HackChat#readme) &nbsp; :arrow_right: &nbsp; [Check out the live application here!](https://web-production-25986.up.railway.app)  |
-
-
-<br>
 <br>
 
 > ## **FEATURED PROJECTS** :open_file_folder:
-### <ins>Websites / Web Applications</ins>
+### <ins>Machine Learning</ins>
+|                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------|
+| [Telco Customer Churn Classification](https://github.com/jeksilaen/capstone-modul-3) &nbsp; :arrow_right: &nbsp; Machine learning model for classification prediction to predict churn rate of a customers |
+| [Gold Prices Forecasting](https://colab.research.google.com/drive/1Bk7miKkqsj9WzXBc8yMNuYzVg7w_opMy?usp=sharing) &nbsp; :arrow_right: &nbsp; Machine learning model for forecasting future gold prices |
+| [School Student Performance Prediction](https://colab.research.google.com/drive/1gQ_th8C38SuUjgT5siGaLvNT9uwqLuMz?usp=sharing) &nbsp; :arrow_right: &nbsp; Machine learning model for multiple linear regression |
+
+### <ins>Data Analysis</ins>
+|                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------|
+| [Airbnb Bangkok Listings Analysis](https://github.com/jeksilaen/capstone-modul-2) &nbsp; :arrow_right: &nbsp; Data analysis with tableau visualization on Airbnb Bangkok Listings |
+| [RFM Segmentation Analysis](https://colab.research.google.com/drive/1b5gLW2WcC79Ys0u-gT_6LoqETS8t6Re5?usp=sharing) &nbsp; :arrow_right: &nbsp; Segmentation analysis using RFM on a retail store |
+| [Cohort Retention Analysis](https://colab.research.google.com/drive/1g-SFifZVmVDpUp22EbdLAzAql4-qszHi#scrollTo=c7cce6f5-d39e-4926-9f1d-f91072854b24) &nbsp; :arrow_right: &nbsp; Retention analysis of cohorts on E-Commerce using Google Looker  |
+
+### <ins>Web Applications</ins>
 |                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------|
 | [BandingBot](https://github.com/jeksilaen/BandingBot#readme) &nbsp; :arrow_right: &nbsp; A handy little web scraper |
@@ -74,25 +74,11 @@
 |                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------|
 | [Tiny NPM](https://github.com/jeksilaen/tiny-package) &nbsp; :arrow_right: &nbsp; An NPM package to minified strings with simple inputs |
-<br>
-<br>
 
-> ## **LANGUAGES AND TOOLS** :computer:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+### <ins>Medium Blogs</ins>
+|                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------|
+| [Medium](https://medium.com/@zachariabachtiar/teknik-penanganan-error-di-python-dengan-blok-try-except-4701aed980f7) &nbsp; :arrow_right: &nbsp; A short blog explaining one of the core methods in Python Programming. |
 <br>
 <br>
 
