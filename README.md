@@ -78,7 +78,7 @@
 ### <ins>Medium Blogs</ins>
 |                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------|
-| [Medium](https://medium.com/@zachariabachtiar/teknik-penanganan-error-di-python-dengan-blok-try-except-4701aed980f7) &nbsp; :arrow_right: &nbsp; Simple and straightforward blog discussing about the importance of error handling in Python. It covers the basic use of try-catch block, complete with best practices and code examples. |
+| [The Importance of Error Handling](https://medium.com/@zachariabachtiar/teknik-penanganan-error-di-python-dengan-blok-try-except-4701aed980f7) &nbsp; :arrow_right: &nbsp; Simple and straightforward blog discussing about the importance of error handling in Python. It covers the basic use of try-catch block, complete with best practices and code examples. |
 <br>
 <br>
 
