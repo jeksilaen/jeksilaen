@@ -37,16 +37,16 @@
 ### <ins>Machine Learning</ins>
 |                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------|
-| [Telco Customer Churn Classification](https://github.com/jeksilaen/capstone-modul-3) &nbsp; :arrow_right: &nbsp; Machine learning model for classification prediction to predict churn rate of a customers |
-| [Gold Prices Forecasting](https://colab.research.google.com/drive/1Bk7miKkqsj9WzXBc8yMNuYzVg7w_opMy?usp=sharing) &nbsp; :arrow_right: &nbsp; Machine learning model for forecasting future gold prices |
-| [School Student Performance Prediction](https://colab.research.google.com/drive/1gQ_th8C38SuUjgT5siGaLvNT9uwqLuMz?usp=sharing) &nbsp; :arrow_right: &nbsp; Machine learning model for multiple linear regression |
+| [Telco Customer Churn Classification](https://github.com/jeksilaen/capstone-modul-3) &nbsp; :arrow_right: &nbsp; Developed a machine learning model for classification prediction to predict churn rate of Telco customers using comparison of various models (XGBoost, Voting Classifier, KNN, RandomForest, etc.) and techniques, including sampling, feature selection, and evaluation methods. |
+| [Gold Prices Forecasting](https://colab.research.google.com/drive/1Bk7miKkqsj9WzXBc8yMNuYzVg7w_opMy?usp=sharing) &nbsp; :arrow_right: &nbsp; Developed a machine learning model for forecasting future gold prices, comparing algorithms like ARIMA, SARIMA, and Prophet to determine the best-predicting model. |
+| [School Student Performance Prediction](https://colab.research.google.com/drive/1gQ_th8C38SuUjgT5siGaLvNT9uwqLuMz?usp=sharing) &nbsp; :arrow_right: &nbsp; Developed a machine learning model for multiple linear regression to predict student performance score using various models (Linear Regression, Ridge, Lasso, SVR, etc.) and common relevant metrics such as Adjusted R-Squared, RMSE, and Residual Analysis. |
 
 ### <ins>Data Analysis</ins>
 |                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------|
-| [Airbnb Bangkok Listings Analysis](https://github.com/jeksilaen/capstone-modul-2) &nbsp; :arrow_right: &nbsp; Data analysis with tableau visualization on Airbnb Bangkok Listings |
-| [RFM Segmentation Analysis](https://colab.research.google.com/drive/1b5gLW2WcC79Ys0u-gT_6LoqETS8t6Re5?usp=sharing) &nbsp; :arrow_right: &nbsp; Segmentation analysis using RFM on a retail store |
-| [Cohort Retention Analysis](https://colab.research.google.com/drive/1g-SFifZVmVDpUp22EbdLAzAql4-qszHi#scrollTo=c7cce6f5-d39e-4926-9f1d-f91072854b24) &nbsp; :arrow_right: &nbsp; Retention analysis of cohorts on E-Commerce using Google Looker  |
+| [Airbnb Bangkok Listings Analysis](https://github.com/jeksilaen/capstone-modul-2) &nbsp; :arrow_right: &nbsp; Conducted a deep data analysis on Airbnb Bangkok listings data using Python along with Tableau for story- based visualization to extract profitable insights and enhance business understanding. |
+| [Supermarket Customers RFM Segmentation Analysis](https://colab.research.google.com/drive/1b5gLW2WcC79Ys0u-gT_6LoqETS8t6Re5?usp=sharing) &nbsp; :arrow_right: &nbsp; Identify supermarket customers based on their behaviour using RFM (Recency, Frequency, Monetary) scores. Each customers are grouped into distinct, controllable categories. This project applies RFM to effectively target each segment with tailored strategies. |
+| [E-Commerce Customers Cohort Retention Analysis](https://colab.research.google.com/drive/1g-SFifZVmVDpUp22EbdLAzAql4-qszHi#scrollTo=c7cce6f5-d39e-4926-9f1d-f91072854b24) &nbsp; :arrow_right: &nbsp; Conducted a thorough data analysis on retention of an e-commerce retail store customers using cohort retention methods and visualized using Google Looker. Customers are segmented into different cohorts to allow detailed retention analysis. |
 
 ### <ins>Web Applications</ins>
 |                                                                                                                        |
@@ -78,7 +78,7 @@
 ### <ins>Medium Blogs</ins>
 |                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------|
-| [Medium](https://medium.com/@zachariabachtiar/teknik-penanganan-error-di-python-dengan-blok-try-except-4701aed980f7) &nbsp; :arrow_right: &nbsp; A short blog explaining one of the core methods in Python Programming. |
+| [Medium](https://medium.com/@zachariabachtiar/teknik-penanganan-error-di-python-dengan-blok-try-except-4701aed980f7) &nbsp; :arrow_right: &nbsp; Simple and straightforward blog discussing about the importance of error handling in Python. It covers the basic use of try-catch block, complete with best practices and code examples. |
 <br>
 <br>
 
