@@ -27,7 +27,7 @@
 
 * I am Zacharia Bachtiar. A ___Software Engineering Graduate___ from __Telkom University__ with a 3.91 GPA (Cum Laude).
 
-* I have been programming for 4+ years and currently developing my expertise around Backend Development.
+* I have been programming for 4+ years and currently developing my expertise around ___Backend Development___.
 
 * Currently looking for an ___Internship/Entry-level Job___ as a Software Engineer or Backend Developer.
 
