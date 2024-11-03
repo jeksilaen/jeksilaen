@@ -53,7 +53,7 @@
 ### <ins>APIs</ins>
 |                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------|
-| [SahabatCGI Web API](https://github.com/jeksilaen/elgeka-web-api.git) &nbsp; :arrow_right: &nbsp; Contains 50+ API Endpoints for SahabatCGI multi-dashboard community web application as part of a thesis project. |
+| [SahabatCGI Web API](https://github.com/jeksilaen/elgeka-web-api.git) &nbsp; :arrow_right: &nbsp; Contains 50+ API Endpoints for SahabatCGI multi-dashboard community web application. |
 | [API Builder (Postman Clone)](https://github.com/jeksilaen/exchange-rates#readme) &nbsp; :arrow_right: &nbsp; An API created using Golang and Gin for a Postman Clone desktop application. |
 | [Exchange Rates API](https://github.com/jeksilaen/exchange-rates#readme) &nbsp; :arrow_right: &nbsp; An API to fetch current and past exchange rates |
 | [Weather API](https://github.com/jeksilaen/exchange-rates#readme) &nbsp; :arrow_right: &nbsp; An extension API to fetch weather in different areas |
