@@ -34,21 +34,6 @@
 <br>
 
 > ## **FEATURED PROJECTS** :open_file_folder:
-### <ins>Machine Learning</ins>
-|                                                                                                                        |
-|---------------------------------------------------------------------------------------------------------|
-| [Telco Customer Churn Classification](https://github.com/jeksilaen/capstone-modul-3) &nbsp; :arrow_right: &nbsp; Developed a machine learning model for classification prediction to predict churn rate of Telco customers using comparison of various models (XGBoost, Voting Classifier, KNN, RandomForest, etc.) and techniques, including sampling, feature selection, and evaluation methods. |
-| [Olist Late Delivery Detection using PySpark](https://colab.research.google.com/drive/1LygCdgi3h0wBTL-zLpjGRCdRagzHG22m?usp=sharing) &nbsp; :arrow_right: &nbsp; A classification machine learning model developed using PySpark to predict the likelihood of a late delivery for a Brazillian E-Commerce called Olist. This project includes the use of RandomForest model, with techniques such as sampling and model-based feature selection. |
-| [Gold Prices Forecasting](https://colab.research.google.com/drive/1Bk7miKkqsj9WzXBc8yMNuYzVg7w_opMy?usp=sharing) &nbsp; :arrow_right: &nbsp; Developed a machine learning model for forecasting future gold prices, comparing algorithms like ARIMA, SARIMA, and Prophet to determine the best-predicting model. |
-| [School Student Performance Prediction](https://colab.research.google.com/drive/1gQ_th8C38SuUjgT5siGaLvNT9uwqLuMz?usp=sharing) &nbsp; :arrow_right: &nbsp; Developed a machine learning model for multiple linear regression to predict student performance score using various models (Linear Regression, Ridge, Lasso, SVR, etc.) and common relevant metrics such as Adjusted R-Squared, RMSE, and Residual Analysis. |
-
-### <ins>Data Analysis</ins>
-|                                                                                                                        |
-|---------------------------------------------------------------------------------------------------------|
-| [Airbnb Bangkok Listings Analysis](https://github.com/jeksilaen/capstone-modul-2) &nbsp; :arrow_right: &nbsp; Conducted a deep data analysis on Airbnb Bangkok listings data using Python along with Tableau for story- based visualization to extract profitable insights and enhance business understanding. |
-| [Supermarket Customers RFM Segmentation Analysis](https://colab.research.google.com/drive/1b5gLW2WcC79Ys0u-gT_6LoqETS8t6Re5?usp=sharing) &nbsp; :arrow_right: &nbsp; Identify supermarket customers based on their behaviour using RFM (Recency, Frequency, Monetary) scores. Each customers are grouped into distinct, controllable categories. This project applies RFM to effectively target each segment with tailored strategies. |
-| [E-Commerce Customers Cohort Retention Analysis](https://colab.research.google.com/drive/1g-SFifZVmVDpUp22EbdLAzAql4-qszHi#scrollTo=c7cce6f5-d39e-4926-9f1d-f91072854b24) &nbsp; :arrow_right: &nbsp; Conducted a thorough data analysis on retention of an e-commerce retail store customers using cohort retention methods and visualized using Google Looker. Customers are segmented into different cohorts to allow detailed retention analysis. |
-
 ### <ins>Web Applications</ins>
 |                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------|
@@ -65,11 +50,25 @@
 | [Newsletter](https://github.com/jeksilaen/Newsletter) &nbsp; :arrow_right: &nbsp; A newsletter subscription website     |
 
  
-### <ins>REST APIs</ins>
+### <ins>APIs</ins>
 |                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------|
 | [Exchange Rates API](https://github.com/jeksilaen/exchange-rates#readme) &nbsp; :arrow_right: &nbsp; An API to fetch current and past exchange rates |
 | [Weather API](https://github.com/jeksilaen/exchange-rates#readme) &nbsp; :arrow_right: &nbsp; An extension API to fetch weather in different areas |
+### <ins>Machine Learning</ins>
+|                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------|
+| [Telco Customer Churn Classification](https://github.com/jeksilaen/capstone-modul-3) &nbsp; :arrow_right: &nbsp; Developed a machine learning model for classification prediction to predict churn rate of Telco customers using comparison of various models (XGBoost, Voting Classifier, KNN, RandomForest, etc.) and techniques, including sampling, feature selection, and evaluation methods. |
+| [Olist Late Delivery Detection using PySpark](https://colab.research.google.com/drive/1LygCdgi3h0wBTL-zLpjGRCdRagzHG22m?usp=sharing) &nbsp; :arrow_right: &nbsp; A classification machine learning model developed using PySpark to predict the likelihood of a late delivery for a Brazillian E-Commerce called Olist. This project includes the use of RandomForest model, with techniques such as sampling and model-based feature selection. |
+| [Gold Prices Forecasting](https://colab.research.google.com/drive/1Bk7miKkqsj9WzXBc8yMNuYzVg7w_opMy?usp=sharing) &nbsp; :arrow_right: &nbsp; Developed a machine learning model for forecasting future gold prices, comparing algorithms like ARIMA, SARIMA, and Prophet to determine the best-predicting model. |
+| [School Student Performance Prediction](https://colab.research.google.com/drive/1gQ_th8C38SuUjgT5siGaLvNT9uwqLuMz?usp=sharing) &nbsp; :arrow_right: &nbsp; Developed a machine learning model for multiple linear regression to predict student performance score using various models (Linear Regression, Ridge, Lasso, SVR, etc.) and common relevant metrics such as Adjusted R-Squared, RMSE, and Residual Analysis. |
+
+### <ins>Data Analysis</ins>
+|                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------|
+| [Airbnb Bangkok Listings Analysis](https://github.com/jeksilaen/capstone-modul-2) &nbsp; :arrow_right: &nbsp; Conducted a deep data analysis on Airbnb Bangkok listings data using Python along with Tableau for story- based visualization to extract profitable insights and enhance business understanding. |
+| [Supermarket Customers RFM Segmentation Analysis](https://colab.research.google.com/drive/1b5gLW2WcC79Ys0u-gT_6LoqETS8t6Re5?usp=sharing) &nbsp; :arrow_right: &nbsp; Identify supermarket customers based on their behaviour using RFM (Recency, Frequency, Monetary) scores. Each customers are grouped into distinct, controllable categories. This project applies RFM to effectively target each segment with tailored strategies. |
+| [E-Commerce Customers Cohort Retention Analysis](https://colab.research.google.com/drive/1g-SFifZVmVDpUp22EbdLAzAql4-qszHi#scrollTo=c7cce6f5-d39e-4926-9f1d-f91072854b24) &nbsp; :arrow_right: &nbsp; Conducted a thorough data analysis on retention of an e-commerce retail store customers using cohort retention methods and visualized using Google Looker. Customers are segmented into different cohorts to allow detailed retention analysis. |
 
 ### <ins>NPM Packages</ins>
 |                                                                                                                        |
