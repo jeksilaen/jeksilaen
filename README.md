@@ -25,11 +25,11 @@
 
 > ## **ABOUT ME** :baby:
 
-* I am Zacharia Bachtiar. A ___Software Engineering Graduate___ from __Telkom University__.
+* I am Zacharia Bachtiar. A ___Software Engineering Graduate___ from __Telkom University__ with a 3.91 GPA (Cum Laude).
 
-* I have been programming for 4 years and currently developing my expertise around Data Science and Machine Learning.
+* I have been programming for 4+ years and currently developing my expertise around Backend Development.
 
-* Currently looking for an ___Internship/Fulltime Job___ as a Data Scientist / Machine Learning & AI Engineer / Data Analyst / Data Engineer.
+* Currently looking for an ___Internship/Entry-level Job___ as a Software Engineer or Backend Developer.
 
 <br>
 
